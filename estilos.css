@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/*estees un comentario*/
 body    {
     font-family: 'Source Sans Pro', sans-serif;
-    background: #fff /*url("img/fondo.jpg");*/
+    background: #fff ; /*url("img/fondo.jpg");*/
     background-size: cover;
     background-attachment: fixed;
 }
