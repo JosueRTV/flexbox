@@ -6,7 +6,7 @@
 
 body    {
     font-family: 'Source Sans Pro', sans-serif;
-    background: #000 url("img/fondo.jpg");
+    background: #fff /*url("img/fondo.jpg");*/
     background-size: cover;
     background-attachment: fixed;
 }
